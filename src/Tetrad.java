@@ -26,7 +26,7 @@ public class Tetrad
 		blocks = new Block[4];
 		Color tetradColor;
 		Location[] blockLocations;
-		
+				
 		int tetradRandomizer = (int)(Math.random() * 7);
 		
 		if (tetradRandomizer == 0) { // Red "I"
