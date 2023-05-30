@@ -86,7 +86,7 @@ public class BlockDisplay implements KeyListener
         scorePanel.add(scoreLabel);
 		frame.setLayout(new BorderLayout());
     	frame.add(scorePanel, BorderLayout.SOUTH);
-    	frame.setSize(205, 455);
+    	frame.setSize(215, 455);
     	
     	frame.setResizable(false);
         frame.setVisible(true);
